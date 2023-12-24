@@ -9,14 +9,14 @@ img {
 body {
     background-color: black;
     background-size: cover;
-    background-image: url("assets/images/woman-code.png");
+    background-image: url("https://bereguinha.github.io/meu-site/assets/images/woman-code.png");
     background-attachment: fixed;
     margin: 0;
 }
 .banner {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.8);
-    background-image: url("assets/images/banner.png");
+    background-image: url("https://bereguinha.github.io/meu-site/assets/images/banner.png");
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 1px;
